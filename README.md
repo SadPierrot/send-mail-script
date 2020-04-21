@@ -1,1 +1,3 @@
 SEND MAIL SCRIPT WRITTEN IN PHP
+
+@ Sad Pierrot
